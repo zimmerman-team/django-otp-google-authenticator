@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='django-otp-',
+    name='django-otp-google-authenticator',
     version='0.1',
     description='A django otp plugin for google authenticator support',
     long_description=open('README.rst').read(),
